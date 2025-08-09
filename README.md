@@ -3,7 +3,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 
-A (_unofficial_) opionated collection of libraries and resources for reducing C# memory usage and maximizing performance.
+A opionated collection of libraries and resources for reducing C# memory usage and maximizing performance.
 
 Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet), [awesome-python](https://github.com/vinta/awesome-python) and [awesome-go](https://github.com/avelino/awesome-go).
 
